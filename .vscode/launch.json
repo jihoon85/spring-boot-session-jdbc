@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SpringBootRestApplication<Spring-Session-Example>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.journaldev.spring.SpringBootRestApplication",
+      "projectName": "Spring-Session-Example",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-SpringBootRestApplication<session-example>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.koji.test.SpringBootRestApplication",
+      "projectName": "session-example",
+      "args": ""
+    }
+  ]
+}
